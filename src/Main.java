@@ -1,16 +1,6 @@
-import button.Button;
-import button.Document;
-import button.PrintCommand;
-import button.SaveCommand;
-import jacket.Jacket;
-import jacket.OrderHandler;
-import jacket.PlaceOrderCommand;
-import jacket.ReturnOrderCommand;
-import water.ColdWaterCommand;
-import water.HotWaterCommand;
-import water.PourWater;
-import water.Water;
-
+import button.*;
+import jacket.*;
+import water.*;
 public class Main {
 
     final private static Document document = new Document();
