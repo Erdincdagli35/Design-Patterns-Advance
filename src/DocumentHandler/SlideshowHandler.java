@@ -1,3 +1,5 @@
+package DocumentHandler;
+
 public class SlideshowHandler extends DocumentHandler{
 
     public SlideshowHandler(DocumentHandler documentHandler) {

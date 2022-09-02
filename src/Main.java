@@ -1,3 +1,6 @@
+import DocumentHandler.*;
+import IssueHandler.*;
+
 public class Main {
 
     public static void main(String[] args) {

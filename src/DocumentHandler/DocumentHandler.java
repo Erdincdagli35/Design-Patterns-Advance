@@ -1,3 +1,5 @@
+package DocumentHandler;
+
 public abstract class DocumentHandler {
 
     private DocumentHandler documentHandler;

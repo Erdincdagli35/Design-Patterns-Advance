@@ -1,3 +1,5 @@
+package IssueHandler;
+
 public class ProductManager extends IssueHandler{
 
     public ProductManager(IssueHandler issueHandler) {

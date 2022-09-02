@@ -1,3 +1,5 @@
+package IssueHandler;
+
 public abstract class IssueHandler {
 
     private IssueHandler issueHandler;

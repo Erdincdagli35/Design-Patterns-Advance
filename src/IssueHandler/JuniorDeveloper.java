@@ -1,3 +1,5 @@
+package IssueHandler;
+
 public class JuniorDeveloper extends IssueHandler{
 
     public JuniorDeveloper(IssueHandler issueHandler) {

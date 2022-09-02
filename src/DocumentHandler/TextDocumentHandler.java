@@ -1,3 +1,5 @@
+package DocumentHandler;
+
 public class TextDocumentHandler extends DocumentHandler{
 
     public TextDocumentHandler(DocumentHandler documentHandler) {

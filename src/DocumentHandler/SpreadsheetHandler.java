@@ -1,3 +1,5 @@
+package DocumentHandler;
+
 public class SpreadsheetHandler extends DocumentHandler{
 
     public SpreadsheetHandler(DocumentHandler documentHandler) {
