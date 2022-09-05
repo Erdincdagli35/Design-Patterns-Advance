@@ -10,11 +10,13 @@ public class Main {
 
         System.out.println("Driver Example: \n");
         Driver.Mediator driverMediator = new Driver.Mediator();
-        driverMediator.buy("pens",3);
+        driverMediator.buy("pens",75);
+        driverMediator.buy("pens",40);
+        driverMediator.buy("pencils",45);
+        driverMediator.buy("pencils",6);
 
-        System.out.println("Plane Example: \n");
+        System.out.println("\nPlane Example: \n");
         Plane.Mediator planeMediator = new Plane.Mediator();
         planeMediator.takeOff();
-
     }
 }

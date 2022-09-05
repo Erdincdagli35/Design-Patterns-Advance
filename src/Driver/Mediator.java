@@ -2,9 +2,9 @@ package Driver;
 
 public class Mediator {
 
-    private Customer customer;
-    private ECommerceSite site;
-    private Driver driver;
+    final private Customer customer;
+    final private ECommerceSite site;
+    final private Driver driver;
 
     public  Mediator(){
         customer = new Customer("123 Sunny Street");

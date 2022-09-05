@@ -18,6 +18,6 @@ public class ECommerceSite {
 
     public void sell(String item, int quantity) {
         int newQuantity = stock.get("pens") - quantity;
-        stock.put(item, quantity);
+        stock.put(item, newQuantity);
     }
 }
