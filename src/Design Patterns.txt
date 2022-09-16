@@ -1,0 +1,39 @@
+Design Patterns 
+
+Behavioral DP 
+
+Class DP "is"
+Object DP "has"
+
+
+1.Chain of Responsibility
+Concept : Bug - Customer -> Support Worker -> Product Manager -> Developer
+Example : Handling authentication 
+		  Servlet filters for handling HTTP request
+		  Context-dependent buttons in a UI
+
+2.Command 
+Concept : Customer -> Waiter -> Chef
+								Chef making a meal by command of waiter
+
+
+3.Iterator 
+Concept : Using mobile phone map for walking at City 
+		  Using Array/List, Iterable, Iterator 
+
+
+4.Mediator
+Concept : E-Site
+Example : Getir, Trendyol
+
+5.Memento 
+Concept : Storage, undo-save
+Example : Ctrl-z mechanism
+
+6.Observer 
+Concept : Notification Feedback
+Example : Traffic Updates, Social Media updates
+
+7.State
+Concept :
+Example :
